@@ -87,7 +87,7 @@ const dummyMeals = [
       'Feel free to add some cheese on top of the finished dish.'
     ],
     isGlutenFree: false,
-    isVegan: true,
+    isKosher: true,
     isVegetarian: true,
     isLactoseFree: true,
   ),
@@ -115,7 +115,7 @@ const dummyMeals = [
       'Bake the toast for round about 10 minutes in the oven at 200°C'
     ],
     isGlutenFree: false,
-    isVegan: false,
+    isKosher: false,
     isVegetarian: false,
     isLactoseFree: false,
   ),
@@ -147,7 +147,7 @@ const dummyMeals = [
       'Serve burger with tomato, cucumber and onion'
     ],
     isGlutenFree: false,
-    isVegan: false,
+    isKosher: false,
     isVegetarian: false,
     isLactoseFree: true,
   ),
@@ -182,7 +182,7 @@ const dummyMeals = [
       'Place the schnitzels on awarmed plate and serve garnishedwith parsley and slices of lemon.'
     ],
     isGlutenFree: false,
-    isVegan: false,
+    isKosher: false,
     isVegetarian: false,
     isLactoseFree: false,
   ),
@@ -218,7 +218,7 @@ const dummyMeals = [
       'Add salmon cubes and dressing'
     ],
     isGlutenFree: true,
-    isVegan: false,
+    isKosher: false,
     isVegetarian: true,
     isLactoseFree: true,
   ),
@@ -254,7 +254,7 @@ const dummyMeals = [
       'Serve with orange peel',
     ],
     isGlutenFree: true,
-    isVegan: false,
+    isKosher: false,
     isVegetarian: true,
     isLactoseFree: false,
   ),
@@ -285,7 +285,7 @@ const dummyMeals = [
       'Pour or scoop the batter onto the griddle, using approximately 1/4 cup for each pancake. Brown on both sides and serve hot.'
     ],
     isGlutenFree: true,
-    isVegan: false,
+    isKosher: false,
     isVegetarian: true,
     isLactoseFree: false,
   ),
@@ -318,7 +318,7 @@ const dummyMeals = [
       'Serve with rice'
     ],
     isGlutenFree: true,
-    isVegan: false,
+    isKosher: false,
     isVegetarian: false,
     isLactoseFree: true,
   ),
@@ -367,7 +367,7 @@ const dummyMeals = [
       'Bake in preheated oven until scuffles are puffed and have risen above the top of the rims, 12 to 15 minutes.',
     ],
     isGlutenFree: true,
-    isVegan: false,
+    isKosher: false,
     isVegetarian: true,
     isLactoseFree: false,
   ),
@@ -401,7 +401,7 @@ const dummyMeals = [
       'Serve with Baguette'
     ],
     isGlutenFree: true,
-    isVegan: true,
+    isKosher: true,
     isVegetarian: true,
     isLactoseFree: true,
   ),
